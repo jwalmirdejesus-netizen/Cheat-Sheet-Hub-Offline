@@ -1,5 +1,20 @@
 # Cheat-Sheet-Hub-Offline
-Um dashboard de referência rápida feito em um único arquivo HTML. Reúne 196 tecnologias com overview em português, comandos prontos para copiar, casos de uso e “5 dicas pro + 3 erros comuns”.Funciona 100% offline, sem build, sem API. Abra e pesquise.
+Um dashboard# Cheat-Sheet-Hub-Offline
+
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Version](https://img.shields.io/badge/version-0.1.0--alpha-orange)
+
+> 🚧 **Projeto em desenvolvimento ativo** — versão alpha. Funcional, mas ainda recebendo limpeza e novas stacks.
+
+## 🚧 Status
+- [x] 196 cartões offline
+- [ ] Remover SDK da Meta
+- [ ] Modo escuro
+- [ ] Separar dados em JSON
+
+Roadmap: v0.2 → limpeza | v0.3 → filtros | v1.0 → estável
+
+referência rápida feito em um único arquivo HTML. Reúne 196 tecnologias com overview em português, comandos prontos para copiar, casos de uso e “5 dicas pro + 3 erros comuns”.Funciona 100% offline, sem build, sem API. Abra e pesquise.
 
 Cada cartão traz:
 • Overview rápido • Comandos e atalhos copiáveis com 1 clique • Casos de uso práticos • 5 dicas pro + 3 erros comuns
