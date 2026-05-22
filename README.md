@@ -6,11 +6,10 @@ Um dashboard# Cheat-Sheet-Hub-Offline
 
 > 🚧 **Projeto em desenvolvimento ativo** — versão alpha. Funcional, mas ainda recebendo limpeza e novas stacks.
 
-## 🚧 Status
-- [x] 196 cartões offline
-- [ ] Remover SDK da Meta
-- [ ] Modo escuro
-- [ ] Separar dados em JSON
+• ✅ 196 cartões offline 
+• ✅ Remover SDK da Meta 
+• ✅ Modo escuro (com toggle 🌙/☀️) 
+• ✅ v0.3 filtros — 7 seções funcionando
 
 Roadmap: v0.2 → limpeza | v0.3 → filtros | v1.0 → estável
 
