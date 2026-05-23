@@ -1,5 +1,5 @@
 # Cheat-Sheet-Hub-Offline
-Um dashboard# Cheat-Sheet-Hub-Offline
+![Cheat Sheet Hub Offline](https://raw.githubusercontent.com/jwalmirdejesus-netizen/Cheat-Sheet-Hub-Offline/main/Screenshot_20260523-115609.jpg)
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Version](https://img.shields.io/badge/version-0.1.0--alpha-orange)
