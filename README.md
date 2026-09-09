@@ -22,7 +22,7 @@ No total: 196 tecnologias organizadas em 7 seções (Operating System, Linux Com
 
 ![Cheat-Sheet-Hub-Offline](Screenshot_20260909-144245.jpg)
 
-![Cheat-Sheet-Hub-Offline]
+![Cheat-Sheet-Hub-Offline](Screenshot_20260909-144253.jpg)
 
 ![Cheat-Sheet-Hub-Offline]
 
