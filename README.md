@@ -1,5 +1,5 @@
 # Cheat-Sheet-Hub-Offline
-https://cheat-sheet-offline.netlify.app
+https://cheat-sheet-hub-offline.netlify.app
 ![Cheat Sheet Hub Offline](https://raw.githubusercontent.com/jwalmirdejesus-netizen/Cheat-Sheet-Hub-Offline/main/Screenshot_20260523-115609.jpg)
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
