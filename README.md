@@ -18,3 +18,7 @@ Conteúdo por área:
 • Linguagens (40+): Python, JavaScript, TypeScript, Go, Rust, C, C++, C#, Java, Kotlin, Swift, PHP, Ruby, Dart, Lua, Perl • Web: HTML, CSS3, Sass, React, Vue, Svelte, HTMX, Node.js, Express, EJS • Backend: Django, Flask, FastAPI, Laravel, Symfony, Rails, Spring concepts • DevOps & Linux: Git, Bash, PowerShell, Docker, Kubernetes, Terraform, Nginx, SSH, Cron, Systemd, Grep, Sed, Awk, Find, Nmap • Banco de Dados: MySQL, PostgreSQL, MongoDB, Redis, Neo4j • Data & IA: NumPy, Pandas, Matplotlib, PyTorch, TensorFlow • Ferramentas Dev: VS Code, IntelliJ, WebStorm, Vim, Emacs, Zed, Postman, Chrome DevTools, GitHub CLI • Referência rápida: HTTP Status, MIME types, Regex, ASCII, Emoji, Portas TCP/UDP, ISO 639, HTML Entities, Resoluções • Design & Produtividade: Figma, Photoshop, Blender, Obsidian, Notion-like, Todoist, Trello 
 No total: 196 tecnologias organizadas em 7 seções (Operating System, Linux Command, Python, Database, Keyboard Shortcuts, Game, Other).
 
+# screenshots
+
+![Cheat-Sheet-Hub-Offline]
+
