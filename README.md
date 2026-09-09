@@ -7,8 +7,7 @@ https://cheat-sheet-hub-offline.netlify.app
 
 > 🚧 **Projeto em desenvolvimento ativo** — versão alpha. Funcional, mas ainda recebendo limpeza e novas stacks.
 
-• ✅ 196 cartões offline 
-• ✅ Remover SDK da Meta 
+• ✅ 196 cartões offline
 • ✅ Modo escuro (com toggle 🌙/☀️) 
 • ✅ v0.3 filtros — 7 seções funcionando
 
